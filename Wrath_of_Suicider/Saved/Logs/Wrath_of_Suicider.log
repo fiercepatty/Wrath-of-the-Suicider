@@ -1006,3 +1006,4 @@ Make sure 'MySimpleAI_C' has been compiled for  Get DefaultSceneRoot
 [2020.11.05-17.57.21:576][559]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.05-17.57.21:576][559]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
 [2020.11.05-17.57.21:576][559]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/MySimpleAI.MySimpleAI
+[2020.11.05-18.01.56:871][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
