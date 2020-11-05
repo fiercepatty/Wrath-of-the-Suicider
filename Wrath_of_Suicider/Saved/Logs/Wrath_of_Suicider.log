@@ -1012,3 +1012,7 @@ Make sure 'MySimpleAI_C' has been compiled for  Get DefaultSceneRoot
 [2020.11.05-18.12.11:364][529]LogSavePackage: Moving '../../../../../../Users/Jacke/Documents/Unreal Projects/Wrath-of-the-Suicider/Wrath_of_Suicider/Saved/MySimpleAIA686B4204F1B22BB6F295E8DAEF649B7.tmp' to '../../../../../../Users/Jacke/Documents/Unreal Projects/Wrath-of-the-Suicider/Wrath_of_Suicider/Content/TopDownBP/Blueprints/MySimpleAI.uasset'
 [2020.11.05-18.12.11:434][529]AssetCheck: New page: Asset Save: MySimpleAI
 [2020.11.05-18.12.11:434][529]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/MySimpleAI.MySimpleAI
+[2020.11.05-18.17.21:521][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.11.05-18.17.21:697][518]LogSavePackage: Moving '../../../../../../Users/Jacke/Documents/Unreal Projects/Wrath-of-the-Suicider/Wrath_of_Suicider/Saved/TopDownExampleMap_Auto42824B76549A24F69B888B79F1F06921A.tmp' to '../../../../../../Users/Jacke/Documents/Unreal Projects/Wrath-of-the-Suicider/Wrath_of_Suicider/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2020.11.05-18.17.21:701][518]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.212
+[2020.11.05-18.17.21:702][518]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.212
