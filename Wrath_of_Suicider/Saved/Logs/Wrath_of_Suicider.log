@@ -1007,3 +1007,8 @@ Make sure 'MySimpleAI_C' has been compiled for  Get DefaultSceneRoot
 [2020.11.05-17.57.21:576][559]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
 [2020.11.05-17.57.21:576][559]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/MySimpleAI.MySimpleAI
 [2020.11.05-18.01.56:871][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.11.05-18.12.06:760][454]BlueprintLog: New page: Compile MySimpleAI
+[2020.11.05-18.12.06:835][454]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.11.05-18.12.11:364][529]LogSavePackage: Moving '../../../../../../Users/Jacke/Documents/Unreal Projects/Wrath-of-the-Suicider/Wrath_of_Suicider/Saved/MySimpleAIA686B4204F1B22BB6F295E8DAEF649B7.tmp' to '../../../../../../Users/Jacke/Documents/Unreal Projects/Wrath-of-the-Suicider/Wrath_of_Suicider/Content/TopDownBP/Blueprints/MySimpleAI.uasset'
+[2020.11.05-18.12.11:434][529]AssetCheck: New page: Asset Save: MySimpleAI
+[2020.11.05-18.12.11:434][529]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/MySimpleAI.MySimpleAI
